@@ -1,0 +1,25 @@
+:root {
+  /* Color Scheme */
+  --wood-brown: rgb(44, 32, 14);
+  --outer-space: #0e0e0e;
+  --forest: #212b25;
+  --dark-background: rgb(25, 25, 25);
+  --blood-orange:rgb(255, 94, 0) ;
+  --stone-grey:rgb(175, 175, 175);
+  /* Font Scheme */
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif; */
+  }
+
+  body{
+    background-color: rgb(243, 243, 243);
+    height: 100%;
+  }
+
+  

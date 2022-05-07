@@ -1,0 +1,30 @@
+.navbar {
+    height: 100px;
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+    border-bottom: solid 7px rgb(197, 197, 197);
+    text-decoration: none;
+  }
+
+  .navbar ul {
+    margin-top: 20px;
+  }
+
+  .navbar li {
+    display: inline-flex;
+    margin-left: 20px;
+  }
+
+  .navLink{
+    text-decoration: none;
+    color: var(--dark-background);
+    /* font-weight: bold; */
+  }
+
+  .navLink:hover{
+    font-size: larger;
+    color: var(--blood-orange);
+    font-weight: bold;
+  }
