@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-final/static/css/main.58a0a801.css",
+    "main.js": "/react-portfolio-final/static/js/main.92a347c6.js",
+    "static/media/bwrock.jpg": "/react-portfolio-final/static/media/bwrock.efe86a2911a96b378315.jpg",
+    "static/media/resume.JPG": "/react-portfolio-final/static/media/resume.e82ab06c2cfd87ad58bd.JPG",
+    "static/media/restroom-finder.jpg": "/react-portfolio-final/static/media/restroom-finder.1867f5e07fa13ce0a125.jpg",
+    "static/media/weather-dashboard.jpg": "/react-portfolio-final/static/media/weather-dashboard.9bf29837d44f9f74204a.jpg",
+    "static/media/me_dark.jpg": "/react-portfolio-final/static/media/me_dark.d15523c8725239c80104.jpg",
+    "static/media/workday-scheduler.jpg": "/react-portfolio-final/static/media/workday-scheduler.2980e8980d600fca11c6.jpg",
+    "static/media/linkedin.png": "/react-portfolio-final/static/media/linkedin.f0344080d1ff3e9dee18.png",
+    "static/media/email.png": "/react-portfolio-final/static/media/email.83956240731d0ad33587.png",
+    "index.html": "/react-portfolio-final/index.html",
+    "main.58a0a801.css.map": "/react-portfolio-final/static/css/main.58a0a801.css.map",
+    "main.92a347c6.js.map": "/react-portfolio-final/static/js/main.92a347c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0a801.css",
+    "static/js/main.92a347c6.js"
+  ]
+}
